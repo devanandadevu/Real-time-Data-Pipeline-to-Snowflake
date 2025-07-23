@@ -38,6 +38,7 @@ Power BI connects to Snowflake to visualize and analyze the ingested and transfo
 ## ## 🗺️ Architecture Diagram
 <img width="1620" height="1080" alt="architecture" src="https://github.com/user-attachments/assets/78938ddf-1a98-4f4d-89bc-3f425baa9acb" />
 ## 🚀 Technologies Used
+
 | Technology             | Purpose                                                      |
 |-------------------     |--------------------------------------------------------------|
 | AWS Lambda             | Processes data,and sends to kafka                            |
