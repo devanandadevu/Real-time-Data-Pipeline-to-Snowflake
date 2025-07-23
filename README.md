@@ -38,8 +38,6 @@ Power BI connects to Snowflake to visualize and analyze the ingested and transfo
 ## ## 🗺️ Architecture Diagram
 <img width="1620" height="1080" alt="architecture" src="https://github.com/user-attachments/assets/78938ddf-1a98-4f4d-89bc-3f425baa9acb" />
 
-
-
 ## 🚀 Technologies Used
 
 | Technology             | Purpose                                                      |
@@ -53,4 +51,12 @@ Power BI connects to Snowflake to visualize and analyze the ingested and transfo
 | Power BI               | Connects to snowflake for reporting, dashboards,and analytics|
 
 ---
+📊 Dashboard Highlights
 
+📈 Articles Over Time – Visualize how many articles are published daily or weekly.
+
+📰 Top News Sources – See which publishers contribute the most content.
+
+😊 Sentiment Summary – View article sentiment as Positive, Negative, or Neutral.
+
+🔍 Search & Filter – Filter data by date, source, or sentiment to find specific insights.
