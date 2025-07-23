@@ -37,7 +37,7 @@ Power BI connects to Snowflake to visualize and analyze the ingested and transfo
 
 ## ## 🏗️ Architecture Diagram
 
-![Architecture Diagram](images/architecture.png)
+architecture.png
 
 
 ## 🚀 Technologies Used
