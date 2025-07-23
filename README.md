@@ -35,7 +35,8 @@ Snowflake → Power BI
 
 Power BI connects to Snowflake to visualize and analyze the ingested and transformed data.
 
-## ## 🏗️ <img width="1620" height="1080" alt="architecture" src="https://github.com/user-attachments/assets/78938ddf-1a98-4f4d-89bc-3f425baa9acb" />
+## ## 🗺️ Architecture Diagram
+<img width="1620" height="1080" alt="architecture" src="https://github.com/user-attachments/assets/78938ddf-1a98-4f4d-89bc-3f425baa9acb" />
 
 
 
